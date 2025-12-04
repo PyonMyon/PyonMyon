@@ -4,8 +4,7 @@ I'm Neko, currently based in Qatar.
 
 I am an aspiring software developer with basic C knowledge(Still learning how to program properly).
 
-My main future target is building softwares and robots that makes our life even more easier.
-
+My main future target is building softwares and robots that makes our life even more easier.<br />
 I also have a vision for building an Operating System but it's a long way to go.
 
 ### Facts about me:
