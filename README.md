@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello! 🌸
 
-<!--
-**PyonMyon/PyonMyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Neko, currently based in Qatar.
 
-Here are some ideas to get you started:
+I am an aspiring software developer with basic C knowledge. I am still learning how to program properly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main future target is building softwares and robots that makes our life even more easier.
+
+I also have a vision for building an Operating System but it's a long way to go.
+
+### Facts about me:
+- A curious person wanting to know about how something works or what something is.
+- Hobbies: Drawing, Experimenting softwares, Reading Novels and Manga, Watching Series and Movies.
+- Used various Linux based distros and Void Linux was my favorite before moving to Secureblue a more secure Linux based distro.
+
+### Thanks a lot for visiting and viewing my profile! ❤️
